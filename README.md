@@ -18,6 +18,4 @@ A more detailed description of what the project is, what problem it solves, and 
 
 To get started with this project, follow these steps to install and set up the necessary environment:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
+1. Navigate to url to access app >>> https://github.com/innovationprotolab/AutomationAI/releases)
