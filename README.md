@@ -32,6 +32,10 @@ Web Automation AI Demo
 Example of Web Automation AI in action.
 Installation
 
+# Download
+
+https://github.com/innovationprotolab/AutomationAI/releases
+
 # License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
