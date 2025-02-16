@@ -10,7 +10,7 @@ Web Automation AI is a Python-based tool that uses AI and web automation librari
 
     Interpret user instructions: Use natural language processing (NLP) to understand and execute user commands.
 
-    Support multiple browsers: Work with Chrome, Firefox, Edge, and more.
+    Support browsers: Work with Chrome.
 
     Generate reports: Provide logs and reports of automated tasks for review.
 
