@@ -1,4 +1,4 @@
-# Project Title
+# Web Automation AI
 
 Brief description of what this project does and its purpose.
 
