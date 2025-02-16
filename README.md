@@ -1,4 +1,4 @@
-Web Automation AI
+# Web Automation AI
 
 Web Automation AI is a powerful tool designed to automate web-based tasks and workflows based on user instructions. It leverages AI to interpret user commands and perform actions such as filling forms, clicking buttons, navigating pages, and extracting data. This tool is ideal for streamlining repetitive web tasks, testing web applications, and enhancing productivity.
 Table of Contents
@@ -13,7 +13,7 @@ Table of Contents
 
     License
 
-Description
+# Description
 
 Web Automation AI is a Python-based tool that uses AI and web automation libraries (e.g., Selenium, BeautifulSoup) to interact with web applications. It can:
 
@@ -25,7 +25,7 @@ Web Automation AI is a Python-based tool that uses AI and web automation librari
 
     Generate reports: Provide logs and reports of automated tasks for review.
 
-Key Features
+# Key Features
 
     AI-Powered Automation: Understands natural language instructions.
 
@@ -41,7 +41,7 @@ Web Automation AI Demo
 Example of Web Automation AI in action.
 Installation
 
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 Support
