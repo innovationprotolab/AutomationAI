@@ -26,6 +26,8 @@ Web Automation AI is a Python-based tool that uses AI and web automation librari
 
 Screenshot
 ![Web Automation AI Demo](WebAutomationAgent.PNG)
+
+
 Web Automation AI Demo
 Example of Web Automation AI in action.
 Installation
