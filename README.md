@@ -18,4 +18,4 @@ A more detailed description of what the project is, what problem it solves, and 
 
 To get started with this project, follow these steps to install and set up the necessary environment:
 
-1. Navigate to url to access app >>> https://github.com/innovationprotolab/AutomationAI/releases)
+1. App available here >>> https://github.com/innovationprotolab/AutomationAI/releases
