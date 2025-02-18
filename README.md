@@ -39,9 +39,20 @@ Installation
 
 https://github.com/innovationprotolab/AutomationAI/releases
 
+
 # License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 Support
 
 For any questions, issues, or feature requests, please open an issue on the GitHub repository.
+
+# Contact
+
+For questions, feedback, or support, please reach out to:
+
+    JC
+
+    Email: mailtojosh5@gmail.com
+
+    GitHub: innovationprotolab
