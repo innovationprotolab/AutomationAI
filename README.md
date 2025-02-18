@@ -1,4 +1,4 @@
-# Web Automation AI
+# Web Automation AI (Executable Version)
 
 Web Automation AI is a powerful tool designed to automate web-based tasks and workflows based on user instructions. It leverages AI to interpret user commands and perform actions such as filling forms, clicking buttons, navigating pages, and extracting data. This tool is ideal for streamlining repetitive web tasks, testing web applications, and enhancing productivity.
 
